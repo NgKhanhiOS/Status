@@ -112,10 +112,7 @@ function createEmbed(data) {
       value: "📢 Cập nhật tự động | Chính xác | Thời gian thực"
     })
 
-    .setThumbnail("https://cdn.discordapp.com/attachments/1411214501474205716/1488846637534281839/download.jpg?ex=69ce43fb&is=69ccf27b&hm=15b12e59af8ae5dee0c4a8952e1c00534334908314e1371b5f7f0a4a283d8d96&
- 
-")
-
+    .setThumbnail("https://files.catbox.moe/uouxqy.jpg")
     .setImage(
       hasUpdate
         ? "https://i.imgur.com/qc3z3FQ.gif"
