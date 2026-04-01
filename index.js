@@ -112,11 +112,11 @@ function createEmbed(data) {
       value: "📢 Cập nhật tự động | Chính xác | Thời gian thực"
     })
 
-    .setThumbnail("https://files.catbox.moe/uouxqy.jpg")
+    .setThumbnail("https://files.catbox.moe/wpeovp.webp")
     .setImage(
       hasUpdate
-        ? "https://i.imgur.com/qc3z3FQ.gif"
-        : "https://i.imgur.com/FKqVYVb.gif"
+        ? ""
+        : ""
     )
 
     .setFooter({
