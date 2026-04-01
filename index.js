@@ -73,9 +73,9 @@ function createEmbed(data) {
 
   return new EmbedBuilder()
     .setColor(hasUpdate ? 0xff0033 : 0x00ffaa)
-    .setTitle("🚀 TRẠNG THÁI TOOL FREE FIRE")
+    .setTitle("🚀 TRẠNG THÁI HACK FREE FIRE")
     .setDescription(
-      "```ansi\n\u001b[1;36m📡 Hệ thống đang theo dõi realtime...\u001b[0m\n```"
+      "```ansi\n\u001b[1;36m📡 Hệ thống theo dõi theo thời gian thực u001b[0m\n```"
     )
     .addFields(
       {
@@ -105,7 +105,7 @@ function createEmbed(data) {
     })
     .setThumbnail("https://files.catbox.moe/wpeovp.webp") // 👈 thay link ảnh vào đây
     .setFooter({
-      text: "⚡ Premium Bot System"
+      text: "⚡ Premium Bot System - By 𝓠丶𝓚𝓱𝓪́𝓷𝓱"
     })
     .setTimestamp();
 }
