@@ -75,7 +75,7 @@ function createEmbed(data) {
     .setColor(hasUpdate ? 0xff0033 : 0x00ffaa)
     .setTitle("🚀 TRẠNG THÁI HACK FREE FIRE")
     .setDescription(
-      "```ansi\n\u001b[1;36m📡 Hệ thống theo dõi theo thời gian thực[0m\n```"
+      "```ansi\n\u001b[1;36m📡 Hệ thống theo dõi theo thời gian thực\n```"
     )
     .addFields(
       {
