@@ -79,7 +79,7 @@ function createEmbed(data) {
       { name: "⚡ Sonic", value: statusIcon(data["Sonic"]), inline: true },
       { name: "🎯 Proxy Aim", value: statusIcon(data["Proxy Aim"]), inline: true }
     )
-    .setThumbnail("LINK_THUMBNAIL_CỦA_BẠN")
+    .setThumbnail("https://files.catbox.moe/wpeovp.webp")
     .setFooter({ text: "⚡ Premium Bot" })
     .setTimestamp();
 }
