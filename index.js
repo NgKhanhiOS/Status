@@ -1,4 +1,3 @@
-````js
 require("dotenv").config();
 
 const {
@@ -332,4 +331,3 @@ client.on("interactionCreate", async interaction => {
 });
 
 client.login(TOKEN);
-````
