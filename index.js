@@ -81,7 +81,7 @@ function createEmbed(data) {
 
     .setTitle("🚀 TRẠNG THÁI TOOL FREE FIRE")
     .setDescription(
-      "```ansi\n\u001b[1;36m📡 Hệ thống đang theo dõi trạng thái realtime...\u001b[0m\n```"
+      "```ansi\n\u001b[1;36m📡 Hệ thống đang theo dõi trạng thái của các bản hack\u001b[0m\n```"
     )
 
     .addFields(
@@ -109,10 +109,12 @@ function createEmbed(data) {
 
     .addFields({
       name: "━━━━━━━━━━━━━━━━━━",
-      value: "📢 Cập nhật tự động | Chính xác | Realtime"
+      value: "📢 Cập nhật tự động | Chính xác | Thời gian thực"
     })
 
-    .setThumbnail("https://i.imgur.com/8Km9tLL.png")
+    .setThumbnail("https://cdn.discordapp.com/attachments/1411214501474205716/1488846637534281839/download.jpg?ex=69ce43fb&is=69ccf27b&hm=15b12e59af8ae5dee0c4a8952e1c00534334908314e1371b5f7f0a4a283d8d96&
+ 
+")
 
     .setImage(
       hasUpdate
